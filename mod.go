@@ -2,6 +2,6 @@ package mod
 
 import "fmt"
 
-func test()  {
+func Test() {
 	fmt.Print("!")
 }
